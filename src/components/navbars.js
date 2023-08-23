@@ -13,8 +13,19 @@ export default function Navbars(){
                         <li className="padding-item">
                             <a className="a-color" href="#" >Home</a>
                         </li>
-                        <li className="padding-item">
+                        <li className="padding-item bg-item dis-block">
                             <a className="a-color" href="#">Features</a>
+                            <ul className="mp-0 ul-style dis-none dis-block ul-position">
+                                <li>
+                                    <a className="a-color" href="#">Item 1</a>
+                                </li>
+                                <li>
+                                    <a className="a-color" href="#">Item 2</a>
+                                </li>
+                                <li>
+                                    <a className="a-color" href="#">Item 3</a>
+                                </li>
+                            </ul>
                         </li>
                         <li className="padding-item">
                             <a className="a-color" href="#">Pricing</a>
