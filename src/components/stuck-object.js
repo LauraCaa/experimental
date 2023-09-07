@@ -1,6 +1,6 @@
 export default function StuckObject(){
     return( 
-        <div className="bg-lila min-vh-100 row">
+        <div className="bg-lila min-vh-100">
             <h1>Fixed at the end page</h1>
             <div className="d-flex justify-content-end fixed-bottom">
                 <button className="btn btn-light btn-lg">hola mundo</button>
