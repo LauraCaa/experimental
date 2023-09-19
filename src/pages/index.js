@@ -18,6 +18,9 @@ export default function Home(){
             <li className="nav-item">
               <Link className="nav-link" href="/dflex">D-flex</Link>
             </li>
+            <li className="nav-item">
+              <Link className="nav-link" href="/dateP">DatePicker</Link>
+            </li>
           </ul>
         </div>
       </nav>
